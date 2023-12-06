@@ -32,4 +32,5 @@ ini adalah Project Tugas Akhir/Skripsi yang dilaksanakan di SMA Bina Dharma Jaka
 1. Login Multi Admin
 ![Login Admin.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/Login%20Admin.png?raw=true)
 2. Form Pendataan Alat Lab
-![Public/D.Alat.png]()
+![Public/D.Alat.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/D.Alat.png?raw=true)
+3. Form Pendataan Anggota Laboratorium ![Public/D.Anggota.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/D.Anggota.png?raw=true)
