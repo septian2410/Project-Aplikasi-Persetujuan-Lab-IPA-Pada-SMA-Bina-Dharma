@@ -14,12 +14,10 @@ ini adalah Project Tugas Akhir/Skripsi yang dilaksanakan di SMA Bina Dharma Jaka
 ###### 8. Persetujuan Data Peminjaman Barang Lab
 ###### 9. Persetujuan Data Penggunaan Barang Lab
 ###### 10. Persetujuan Data Permintaan Barang Lab
-###### 11. Report Data Anggota
-###### 12. Report Data Barang Lab
-###### 13. Report Data Peminjaman
-###### 14. Report Data Penggunaan
-###### 15. Report Data Permintaan
-###### 16. Logout
+###### 11. Report Data Barang Lab
+###### 12. Report Data Peminjaman
+###### 13. Report Data Penggunaan
+###### 14. Report Data Permintaan
 #
 ## Tools
 ------------------------
