@@ -1,6 +1,6 @@
 # Aplikasi Persetujuan Lab IPA
 ------------------------
-ini adalah Project Tugas Akhir/Skripsi yang dilaksanakan di SMA Bina Dharma Jakarta. Disini saya membuat Sistem Pendataan Barang Lab / Pendataan Anggota Lab, Permintaan barang dan Persetujuan Peminjaman dan Penggunaan Barang Lab.
+ini adalah Project Tugas Akhir/Skripsi yang dilaksanakan di SMA Bina Dharma Jakarta. Disini saya membuat Sistem Pendataan Barang Lab / Pendataan Anggota Lab, Pendataan Peminjaman barang, Persetujuan Peminjaman dan Penggunaan Barang Laboratorium.
 
 ## Features
 ------------------------
