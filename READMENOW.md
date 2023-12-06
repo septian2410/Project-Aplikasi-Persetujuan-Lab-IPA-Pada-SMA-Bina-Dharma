@@ -29,5 +29,7 @@ ini adalah Project Tugas Akhir/Skripsi yang dilaksanakan di SMA Bina Dharma Jaka
 #
 ## Showcase Application
 ------
-1. Login 
+1. Login Multi Admin
 ![Login Admin.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/Login%20Admin.png?raw=true)
+2. Form Pendataan Alat Lab
+![Public/D.Alat.png]()
