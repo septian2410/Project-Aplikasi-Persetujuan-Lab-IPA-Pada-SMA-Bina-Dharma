@@ -31,13 +31,17 @@ ini adalah Project Tugas Akhir/Skripsi yang dilaksanakan di SMA Bina Dharma Jaka
 ------
 1. Login Multi Admin
 ![Login Admin.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/Login%20Admin.png?raw=true)
-2.DashBoard
+2. DashBoard ![]()
 3. Form Pendataan Alat Lab
 ![Public/D.Alat.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/D.Alat.png?raw=true)
 4. Form Pendataan Anggota Laboratorium ![Public/D.Anggota.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/D.Anggota.png?raw=true)
 5. Form Pendataan Peminjaman Barang Lab ![Public/D.Peminjaman.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/D.Peminjaman.png?raw=true)
-6. Form Pendataan Penggunaan Barang Lab ![Public/D.Penggunaan.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/D.Penggunaan.png)
+6. Form Pendataan Penggunaan Barang Lab ![Public/D.Penggunaan.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/D.Penggunaan.png?raw=true)
 7. Form Pendataan Permintaan Barang Lab ![Public/D.Permintaan.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/D.Permintaan.png)
 8. Form Persetujuan Peminjaman Barang Lab ![Public/Persetujuan.Peminjaman.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/Persetujuan.Peminjaman.png?raw=true)
 9. Form Persetujuan Penggunaan Barang Lab ![Public/Persetujuan Penggunaan.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/Persetujuan%20Penggunaan.png?raw=true)
 10. Form Persetujuan Permintaan Barang Lab ![Public/Persetujuan Permintaan.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/Persetujuan%20Permintaan.png?raw=true)
+11. Report Data Barang Lab  ![Public/Lap.Alat.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/Lap.Alat.png?raw=true)
+12. Report Data Peminjaman Lab  ![Public/Lap.Peminjaman.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/Lap.Peminjaman.png?raw=true)
+13. Report Data Penggunaan Lab  ![Public/Lap.Penggunaan.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/Lap.Penggunaan.png?raw=true)
+14. Report Data Permintaan Lab  ![Public/Lap.Permintaan.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/Lap.Permintaan.png?raw=true)
