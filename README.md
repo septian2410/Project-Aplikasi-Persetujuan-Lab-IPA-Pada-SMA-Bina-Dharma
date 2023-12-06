@@ -33,7 +33,7 @@ ini adalah Project Tugas Akhir/Skripsi yang dilaksanakan di SMA Bina Dharma Jaka
 ![Login Admin.png](https://www.dropbox.com/scl/fi/1xgz34x7y0ejqlaker35v/Login-Admin.png?rlkey=2cm0uq841cesow3z9hd4ht060&dl=0)
 
 3. Home Dashboard
-![Beranda (Kesiswaan1).png](https://www.dropbox.com/s/vjtitbc58kldovk/Beranda%20%28Kesiswaan1%29.png?dl=0&raw=1)
+![Berana (Kesiswaan1).png](https://www.dropbox.com/s/vjtitbc58kldovk/Beranda%20%28Kesiswaan1%29.png?dl=0&raw=1)
 4. Input Data Siswa (CRUD & Search)
 ![Menu (Data Siswa).png](https://www.dropbox.com/s/rfnkqlfjptr8oh7/Menu%20%28Data%20Siswa%29.png?dl=0&raw=1)
 5. Input Data Guru (CRUD & Search)
