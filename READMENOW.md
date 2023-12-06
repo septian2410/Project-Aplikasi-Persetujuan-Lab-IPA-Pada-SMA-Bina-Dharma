@@ -30,4 +30,4 @@ ini adalah Project Tugas Akhir/Skripsi yang dilaksanakan di SMA Bina Dharma Jaka
 ## Showcase Application
 ------
 1. Login 
-![Login Admin.png](https://www.dropbox.com/scl/fi/1xgz34x7y0ejqlaker35v/Login-Admin.png?rlkey=2cm0uq841cesow3z9hd4ht060&dl=0)
+![Login Admin.png](https://www.dropbox.com/scl/fi/1xgz34x7y0ejqlaker35v/Login-Admin.png?rlkey=2cm0uq841cesow3z9hd4ht060&dl=0?raw=true)
