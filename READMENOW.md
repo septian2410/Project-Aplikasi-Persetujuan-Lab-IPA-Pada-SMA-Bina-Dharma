@@ -34,3 +34,7 @@ ini adalah Project Tugas Akhir/Skripsi yang dilaksanakan di SMA Bina Dharma Jaka
 2. Form Pendataan Alat Lab
 ![Public/D.Alat.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/D.Alat.png?raw=true)
 3. Form Pendataan Anggota Laboratorium ![Public/D.Anggota.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/D.Anggota.png?raw=true)
+4. Form Pendataan Peminjaman Barang Lab ![Public/D.Peminjaman.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/D.Peminjaman.png?raw=true)
+5. Form Pendataan Penggunaan Barang Lab ![Public/D.Penggunaan.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/D.Penggunaan.png)
+6. Form Pendataan Permintaan Barang Lab ![Public/D.Permintaan.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/D.Permintaan.png)
+7. Form Persetujuan Penggunaan Barang Lab ![Public/Persetujuan Penggunaan.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/Persetujuan%20Penggunaan.png)
