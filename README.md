@@ -59,3 +59,6 @@ https://youtu.be/Q3SUz3jxDLo
 ![Public/Lap.Penggunaan.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/Lap.Penggunaan.png?raw=true)
 ## 14. Report Data Permintaan Lab 
 ![Public/Lap.Permintaan.png](https://github.com/septian2410/TA_LabIPA/blob/master/Public/Lap.Permintaan.png?raw=true)
+
+## License
+Pandu Septiandito, Jakarta, Since 2022
