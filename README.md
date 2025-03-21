@@ -10,15 +10,15 @@ https://youtu.be/Q3SUz3jxDLo
 ------------------------
 ###### 1. Login Multi Admin (Guru, Kepala Lab, Laboran)
 ###### 2. Home Dashboard Admin
-###### 3. CRUD Data Anggota Lab
-###### 4. CRUD Data Barang Lab
-###### 5. CRUD Data Peminjaman Barang Lab
-###### 6. CRUD Data Penggunaan Barang Lab
-###### 7. CRUD Data Permintaan Barang Lab
-###### 8. Persetujuan Data Peminjaman Barang Lab
-###### 9. Persetujuan Data Penggunaan Barang Lab
-###### 10. Persetujuan Data Permintaan Barang Lab
-###### 11. Report Data Barang Lab
+###### 3. Menu Data Anggota Laboratorium (CRUD & Search)
+###### 4. Menu Data Barang Laboratorium (CRUD & Search)
+###### 5. Menu Data Peminjaman Barang Laboratorium (CRUD & Search)
+###### 6. Menu Data Penggunaan Barang Laboratorium (CRUD & Search)
+###### 7. Menu Data Permintaan Barang Laboratorium (CRUD & Search)
+###### 8. Menu Persetujuan Data Peminjaman Barang Lab (Approval & Search)
+###### 9. Menu Persetujuan Data Penggunaan Barang Lab (Approval & Search)
+###### 10. Menu Persetujuan Data Permintaan Barang Lab (Approval & Search)
+###### 11. Report Data Barang Laboratorium
 ###### 12. Report Data Peminjaman
 ###### 13. Report Data Penggunaan
 ###### 14. Report Data Permintaan
