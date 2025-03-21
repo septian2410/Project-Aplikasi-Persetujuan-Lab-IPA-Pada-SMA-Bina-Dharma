@@ -25,9 +25,8 @@ https://youtu.be/Q3SUz3jxDLo
 #
 ## Tools
 ------------------------
-###### 1. Netbeans IDE 8.2
-###### 2. Localhost Server (XAMPP) 
-###### 3. Database (Mysql) 
+![Tools](https://github.com/user-attachments/assets/de283db2-ffed-4812-953d-80d93e6dfc93)
+
 #
 ## Showcase Application
 ------
